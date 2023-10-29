@@ -21,7 +21,7 @@ import numpy as np
 import sys
 #import matplotlib.pyplot as plt
 
-qtCreatorFile = "C:/Users/margh/Downloads/gvs code2.ui"
+qtCreatorFile = "./gvs code2.ui"
 
 Ui_MainWindow, QtBaseClass = loadUiType(qtCreatorFile)
 
